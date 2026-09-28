@@ -40,3 +40,35 @@ The Decrement button decreases the counter:
 c = (c > 0) ? c - 1 : 0;
 
 This prevents the counter from going below 0.
+
+2. Increment Click Count
+
+The variable ci stores the number of times the Increment button has been clicked.
+
+let ci = 0;
+
+Each time Increment is clicked, the value increases by 1.
+
+After reaching 10, the next click resets the value to 0.
+
+3. Decrement Click Count
+
+The variable cd stores the number of times the Decrement button has been clicked.
+
+let cd = 0;
+
+Each time Decrement is clicked, the value increases by 1.
+
+After reaching 10, the next click resets the value to 0.
+
+4. Updating the Page
+
+The update() function displays the latest values on the webpage.
+
+function update() {
+    incCount.textContent = ci;
+    decCount.textContent = cd;
+    count.textContent = c;
+}
+
+The JavaScript values are updated inside the HTML using textContent.
