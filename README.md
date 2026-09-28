@@ -1,0 +1,1 @@
+# Simple Counter A simple **Counter Application** built using **HTML, CSS, and JavaScript**. This project allows users to increase and decrease a counter value while also keeping track of how many times the **Increment** and **Decrement** buttons have been clicked.
