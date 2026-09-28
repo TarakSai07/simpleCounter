@@ -72,3 +72,36 @@ function update() {
 }
 
 The JavaScript values are updated inside the HTML using textContent.
+
+Example
+
+If the user clicks:
+
+Increment
+Increment
+Increment
+Decrement
+
+The result will be:
+
+Count: 2
+
+Clicks of Increment: 3
+Clicks of Decrement: 1
+Project Structure
+Simple-Counter/
+│
+├── index.html
+└── README.md
+
+The index.html file contains:
+
+HTML structure
+CSS styling
+JavaScript functionality
+How to Run
+Download or clone the project.
+Open the project folder.
+Open index.html in a web browser.
+Click the Increment button to increase the counter.
+Click the Decrement button to decrease the counter.
