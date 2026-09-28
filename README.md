@@ -105,3 +105,33 @@ Open the project folder.
 Open index.html in a web browser.
 Click the Increment button to increase the counter.
 Click the Decrement button to decrease the counter.
+JavaScript Concepts Used
+
+This project demonstrates basic JavaScript concepts such as:
+
+Variables
+Functions
+Conditional expressions
+Ternary operator
+DOM manipulation
+getElementById()
+textContent
+onclick
+Function calls
+Increment and decrement logic
+Future Improvements
+
+Some features that can be added in the future:
+
+Add a Reset button
+Allow the user to set a custom maximum value
+Add a custom minimum value
+Add a history of counter changes
+Add different colors for positive and negative values
+Add keyboard controls
+Save the counter value using Local Storage
+Author
+
+Tarak Sai
+
+This project was created as a beginner-friendly JavaScript practice project to understand functions, conditional logic, DOM manipulation, and event handling.
